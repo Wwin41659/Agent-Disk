@@ -24,3 +24,5 @@
 
 ```bash
 git clone https://github.com/your-repo/guessing-game.git
+<img src="https://www.gravatar.com/avatar/fe72f9c32e72bb6a42199d9db6466b6d?s=100&d=identicon" alt="User Avatar" />
+
